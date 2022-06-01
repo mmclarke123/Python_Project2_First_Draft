@@ -7,3 +7,5 @@ You will need a 6 files in order to adequately run the code:
 3) The four pdb files (uploaded here)
 
 Information about where the files were retreived is within the jupyter notebook markdown sections.
+
+Scientific Question and Hypothesis are in markdown section of jupyter notebook.
