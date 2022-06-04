@@ -1,4 +1,4 @@
-# Python_Project2_First_Draft
+# Python_Project2_Final_Draft
 This is my first draft of project 2. 
 You will need a 6 files in order to adequately run the code:
 
